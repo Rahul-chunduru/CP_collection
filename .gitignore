@@ -2,5 +2,7 @@
 *
 # except those with extensions
 !*.*
+# or folders
+!*/
 # but not those with .out
 *.out
