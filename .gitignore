@@ -1,0 +1,6 @@
+# Ignore all
+*
+# except those with extensions
+!*.*
+# but not those with .out
+*.out
